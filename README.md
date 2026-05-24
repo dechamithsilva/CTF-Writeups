@@ -5,7 +5,7 @@
 > **Platform:** HackTheBox | **Category:** Starting Point | **Difficulty:** ⭐ Very Easy | **Written by:** Chamith De Silva
 
 ---
-
+ 
 ## 🧠 What This Machine Is About
 
 Meow is the very first Starting Point machine on HackTheBox. It introduces one of the oldest and most insecure remote login protocols called Telnet. The machine teaches you how to find open ports, connect to a remote service, and log in without a password due to a misconfiguration.
