@@ -11,8 +11,9 @@
 | # | Machine | Difficulty | Topic | Status |
 |---|---------|------------|-------|--------|
 | 1 | [Meow](HackTheBox/Meow/) | ⭐ Very Easy | Telnet | ✅ Done |
-| 2 | [Dancing](HackTheBox/Dancing/) | ⭐ Very Easy | SMB | ✅ Done |
-| 3 | [Redeemer](HackTheBox/Redeemer/) | ⭐ Very Easy | Redis | ✅ Done |
+| 2 | [Fawn](HackTheBox/Fawn/) | ⭐ Very Easy | FTP | ✅ Done |
+| 3 | [Dancing](HackTheBox/Dancing/) | ⭐ Very Easy | SMB | ✅ Done |
+| 4 | [Redeemer](HackTheBox/Redeemer/) | ⭐ Very Easy | Redis | ✅ Done |
 
 ### 🟩 TryHackMe
 
